@@ -5,10 +5,8 @@ Contact georgina.al-badri@ucl.ac.uk
 
 Please cite:
 ```
-@article{al2022formation,
-  title={Formation of vascular-like structures using a chemotaxis-driven multiphase model},
-  author={Al-Badri, Georgina and Phillips, James B and Shipley, Rebecca J and Ovenden, Nicholas C},
-  journal={arXiv preprint arXiv:2211.10205},
-  year={2022}
-}
+Al-Badri, Georgina, James B. Phillips, Rebecca J. Shipley, and Nicholas C. Ovenden.
+"Formation of vascular-like structures using a chemotaxis-driven multiphase model."
+Mathematical Biosciences (2024): 109183.
 ```
+https://doi.org/10.1016/j.mbs.2024.109183
